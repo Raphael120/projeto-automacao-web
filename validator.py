@@ -1,7 +1,3 @@
-""" OrderedDict([('FULL_NAME', 'Fabiana Santos'), ('EMAIL', 'fabi@mail.com'), ('SOURCE', 'Atacado'),
- ('CATEGORIES', 'Vestido, Roupas Íntimas'), ('TYPE', 'Não Cadastrado'), ('RATING', '2')])"""
-
-
 import re
 
 
